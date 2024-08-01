@@ -1,0 +1,23 @@
+body {
+  color: white;
+  min-height: calc(100vh - 211px - 58px);
+}
+
+h1 {
+  font-size: 60px;
+  color: white  ;
+
+}
+
+a {
+  color: #890002;
+}
+
+h2 {
+  font-size: 30px;
+  color: #890002;
+}
+
+div {
+  background-color: #1c1c1c;
+  height: 100px;
